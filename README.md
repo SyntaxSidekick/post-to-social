@@ -17,7 +17,7 @@ A local web application for scheduling posts to X (Twitter) and LinkedIn. Schedu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/syntaxsidekick/post-to-social.git
+   git clone https://github.com/SyntaxSidekick/post-to-social.git
    cd post-to-social
    ```
 
@@ -166,7 +166,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues:
 
-1. Check the [Issues](https://github.com/syntaxsidekick/post-to-social/issues) page
+1. Check the [Issues](https://github.com/SyntaxSidekick/post-to-social/issues) page
 2. Review the setup documentation
 3. Create a new issue with detailed information
 
