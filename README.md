@@ -17,8 +17,8 @@ A local web application for scheduling posts to X (Twitter) and LinkedIn. Schedu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/social-media-scheduler.git
-   cd social-media-scheduler
+   git clone https://github.com/syntaxsidekick/post-to-social.git
+   cd post-to-social
    ```
 
 2. **Install dependencies**
@@ -125,7 +125,7 @@ This starts the server with nodemon for automatic restarts.
 ### Project Structure
 
 ```
-social-media-scheduler/
+post-to-social/
 ├── src/
 │   ├── app.js              # Main Express application
 │   ├── scheduler.js        # Background scheduling engine
@@ -166,7 +166,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues:
 
-1. Check the [Issues](https://github.com/yourusername/social-media-scheduler/issues) page
+1. Check the [Issues](https://github.com/syntaxsidekick/post-to-social/issues) page
 2. Review the setup documentation
 3. Create a new issue with detailed information
 
